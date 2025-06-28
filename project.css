@@ -1,0 +1,268 @@
+*{
+    margin: 0px;
+    font-family: arial;
+    border: border-box;
+    /* width: 100%; */
+}
+
+.amazonlogo{
+    height: 60px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.logo{
+    height: 50px;
+    width: 150px;
+}
+
+.logo1{
+background-image: url(/White-Amazon-Logo-PNG-HD-Quality.png);
+background-size: cover;
+height: 50px;
+width: 100%;
+}
+
+.border{
+    border: 2px solid black;
+}
+
+.border:hover{
+    border: 2px solid white;
+}
+
+.nav-adress{
+    position: relative;
+    left: 20px;
+    font-size: medium;
+    bottom: 5px;
+
+}
+
+.delivericon{
+    color: #cccccc;
+    font-size: smaller;
+    margin-left:15px ;
+}
+
+.icon{
+    color: #ffffff;
+}
+
+.addicon{
+    display: flex;
+    align-items: center;
+    margin-left: 3px;
+}
+
+.navsearch{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: blue;
+    width: 620px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.searchselect{
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border: none;
+}
+
+.search{
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+}
+
+.searchicon{
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    background-color: rgb(247, 190, 6);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+   border: none;
+}
+
+.border1:hover{
+    border: 2px solid orange;
+}
+ 
+.nav1{
+    font-size: smaller;
+}
+
+
+.nav2{
+    font-size:medium;
+    font-weight: 700;
+} 
+
+.cart i{
+    font-size: 30px;
+}
+
+.cart{
+    font-weight: 700;
+}
+
+/* panel(2) */
+
+
+.panel{
+    background-color: #222f3d;
+    height: 41px;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.panel1{
+    display: flex;
+    width: 70%;
+    font-size: 1rem;
+    justify-content: space-around
+}
+
+.panel2{
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.panelall i{
+font-size: large;
+margin: 5px;
+}
+
+.panelall{
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.border2:hover{
+    border: 2px solid white;
+}
+
+/* panel(3) */
+
+.herosection{
+    background-image: url("TV_Knockout_Deals_GW_PC_3000X1200_._CB794575698_.jpg");
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.hero{
+    color: black;
+    background-color: white;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+    width: 90%;
+    margin-bottom: 25px;
+
+}
+
+.hero a{
+    color: #007185;
+}
+
+/* panel(4) */
+
+.box{
+    height: 400px;
+    width: 23%;
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 10px;
+    padding: 20px 0px 15px;
+}
+
+.shopsection{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+
+.boximg{
+    height: 300px;
+    /* background-size:conta; */
+    margin-left: 10px;
+    margin-right: 10px;
+margin-top: 1rem;
+margin-bottom: 1rem;
+}
+.box a{
+    color: blue;
+}
+
+/* (panel5) */
+
+footer{
+    margin-top: 20px;
+}
+
+.footline{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+
+}
+
+.footline2{
+    background-color: #222f3d;
+    color: white;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+     font-size: 0.85rem;
+
+}
+
+ul{
+    margin-top: 20px;
+}
+
+ul a{
+    display: flex;
+    margin-top: 10px;
+    font-size: 0.85rem;
+   
+}
+
+.footpanel3{
+background-color: #222f3d;
+color: white;
+border-top: 0.5px solid white;
+height: 70px;
+display: flex;
+justify-content: center;
+align-items:center;
+}
+
+.logo{
+    background-image: url(/White-Amazon-Logo-PNG-HD-Quality.png);
+background-size: cover;
+height: 50px;
+width: 150px;
+}

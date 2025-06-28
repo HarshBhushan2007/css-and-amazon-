@@ -1,0 +1,55 @@
+/* #box1{
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+    font-size: 10px;
+}
+#box2{
+    width: 50px;
+    height: 30%;
+    background-color: crimson;
+    font-size: 2em;
+} */
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+
+}
+
+#box1{
+    position: relative;
+    top: 150px;
+    left: 10px;
+}
+
+#box2{
+    position: absolute;
+    top: 10px;
+}
+
+#box3{
+    position: fixed;
+    top: 10px;
+    z-index: 3;
+}
+
+#box4{
+    position: sticky;
+    bottom:40px;
+}
+
+#box5{
+    position: relative;
+    bottom: 6000px;
+    left: 10px;
+    z-index: 1;
+}
+#box6{
+    background-image:url("peter-broomfield-m3m-lnR90uM-unsplash.jpg"); 
+    height: 100px;
+    background-size: cover;
+}

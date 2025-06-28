@@ -1,0 +1,126 @@
+*{
+    color:bue;
+}
+
+/* button{
+    color: rgb(37, 132, 13);
+     background-color: aquamarine;
+} */
+body{
+    background-color:gb( 16, 50, 40);
+}
+ #heading1{
+    color: chartreuse;
+ }
+ .myclass{
+    color: deeppink;
+ }
+ p{
+    text-align: center;
+ }
+ .t{
+    text-align: center;
+    text-decoration:violet underline;
+ }
+ a{
+   text-decoration: none;
+ }
+ #h1{
+   font-weight: normal;
+ }
+ #h2{
+   font-weight: bolder;
+ }
+ #h3{
+   font-weight: 300;
+ }
+ #h4{
+font-weight: 500; }
+#two{
+   font-family:serif;
+}
+#a{
+   font-size: 50px;
+}
+#b{
+   line-height: 50px;
+   text-transform: capitalize;
+}
+*{
+   padding: 0;
+   margin:0;
+}
+
+div{
+   height: 60px;
+   width: 1200px;
+   /* background-color: brown; */
+   border-width: 2px;
+   border-style: solid;
+   border-color: black; 
+   border:2px solid black;
+   text-align: center;
+   border-radius: 0px;
+   padding:1px 2px 3px 4px;
+   /* top/right/bottom/left */
+ }
+
+.one{
+   color: orange;
+position: relative;
+font-size: 25px;
+right: 450px;   
+}
+
+.yes{
+   color: white;
+   position: relative;
+   right: 300px;
+}
+
+.three{
+   color: white;
+    position: relative;
+    right: 130px;
+}
+
+.four{
+   color: white;
+   position: relative;
+ left: 20px;
+}
+
+z{
+   position: relative;
+   bottom: 60px;
+   left: 950px;
+}
+
+button{
+   bottom: 0px;
+   left: 100px;
+}
+
+.com{
+   background-color: black;
+}
+
+button{
+   color: white;
+   background-color:orange;
+   width: 60px;
+}
+
+/* div{
+   width: 100px;
+   height: 100px;
+   margin: 25px;
+   padding: 25px;
+   display: inline-block;
+   background-color: rgba(255,0,0,0.77);
+} */
+#box2{
+   /* display: none; */
+   visibility: hidden;
+}
+

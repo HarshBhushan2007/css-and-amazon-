@@ -1,0 +1,199 @@
+*{
+    font-family:"Times New Roman";
+}
+/* div{
+    background-color: blue; */
+/* } */
+.heading{
+    color: red;
+}
+
+    /* button{
+        background-color: green;
+    } */
+     
+h1{
+    text-align: center;
+}
+p{
+    text-transform: capitalize;
+}
+
+ /* div{
+    border: 20px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: green;
+   border:2px solid blue; }
+*{
+    padding:0;
+    margin: 0;
+}
+body{
+    background-color: aqua;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+          
+
+}
+
+.lightred{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border: 10px;
+    position: relative;
+    top: 20px;
+    left: 5px;
+    border-radius: 100%
+    
+}
+.lightyellow{
+      background-color:yellow;
+    height: 100px;
+    width: 100px;
+    border: 10px;
+    position: relative;
+    top: 50px;
+        left: 5px;
+
+    border-radius: 100%
+
+}
+ .lightgreen{
+      background-color: rgb(5, 245, 9);
+    height: 100px;
+    width: 100px;
+    border: 10px;
+    position: relative;
+    top: 80px;
+        left: 5px;
+    border-radius: 100px; }
+    
+
+.trafficlight{
+    height: 400px;
+    width: 110px;
+    border-radius: 50px;
+    background-color: rgb(10, 10, 10)
+}  */
+
+
+/* 
+  { padding: 0;
+   margin:0;} */
+
+
+ /* div{
+   height: 60px;
+   width: 1200px;
+   background-color: brown;
+   border-width: 2px;
+   border-style: solid;
+   border-color: black;
+   border:2px solid black;
+   text-align: center;
+   border-radius: 0px;
+   padding:1px 2px 3px 4px; 
+    /* top/right/bottom/left  */
+ /* }  */ */
+
+.one{
+   color: orange;
+position: relative;
+font-size: 25px;
+right: 450px;   
+}
+
+.yes{
+   color: white;
+   position: relative;
+   right: 300px;
+}
+
+.three{
+   color: white;
+    position: relative;
+    right: 130px;
+}
+
+.four{
+   color: white;
+   position: relative;
+ left: 20px;
+}
+
+z{
+   position: relative;
+   bottom: 60px;
+   left: 950px;
+}
+
+button{
+   bottom: 0px;
+   left: 100px;
+}
+
+.com{
+   background-color: black;
+}
+
+button{
+   color: white;
+   background-color:orange;
+   width: 60px;
+}
+
+/* div{
+   width: 100px;
+   height: 100px;
+   margin: 25px;
+   padding: 25px;
+   display: inline-block;
+   background-color: rgba(255,0,0,0.77);
+}
+#box2{
+   display: none;
+   visibility: hidden;
+} */
+
+/* .navbar{
+    background-color: pink;
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li{
+    list-style-type: none;
+} */
+
+#box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: pink;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box1{
+     height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    background-color: blue;
+}
+
+

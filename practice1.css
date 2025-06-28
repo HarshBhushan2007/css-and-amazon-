@@ -1,0 +1,45 @@
+/* div{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+} */
+
+
+
+
+
+/* @media (max-width: 300px){
+    div { 
+        background-color: green;
+    }
+}
+@media (min-width: 300px) and (max-width: 400px){
+    div {
+        background-color: pink;
+    }
+}
+@media (min-width: 400px) and (max-width: 600px){
+  div {
+background-color: red;
+  }
+}
+@media (min-width: 600px){
+    div {
+        background-color: blue;
+    }
+} */
+
+#loader{width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: 20px solid rgb(88, 209, 69);
+    border-top: 20px solid black;
+    animation: coloranimate 3s ease-in  0.5ms infinite normal;
+    
+}
+
+@keyframes coloranimate{
+    from{transform: rotate(0deg);}
+    to{transform: rotate(360deg);}
+}
+
